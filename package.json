@@ -28,7 +28,7 @@
     "express-session": "^1.17.0",
     "file-upload": "0.0.0",
     "formiojs": "^4.9.25",
-    "jquery": "^3.4.1",
+    "jquery": "^3.5.0",
     "jsondiffpatch": "^0.4.1",
     "jsonwebtoken": "^8.5.1",
     "jsqr": "^1.2.0",
