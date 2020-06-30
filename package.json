@@ -24,7 +24,7 @@
     "express": "^4.17.1",
     "express-compile-sass": "^4.0.0",
     "express-fileupload": "^1.1.6",
-    "express-jwt": "^5.3.3",
+    "express-jwt": "^6.0.0",
     "express-jwt-authz": "^2.4.0",
     "express-jwt-permissions": "^1.3.3",
     "express-prettify": "^0.1.1",
