@@ -12,7 +12,7 @@
   "dependencies": {
     "@formio/contrib": "git+https://github.com/nathanieltagg/sietch-formio-components.git",
     "@jsonurl/jsonurl": "^1.0.1",
-    "auth0": "^2.27.0",
+    "auth0": "^2.27.1",
     "body-parser": "^1.19.0",
     "bootstrap": "^4.5.0",
     "bootstrap-autocomplete": "^2.3.5",
