@@ -67,7 +67,7 @@
     "pino": "^6.9.0",
     "pino-http": "^5.3.0",
     "pino-pretty": "^4.3.0",
-    "pug": "^3.0.0",
+    "pug": "^3.0.1",
     "qrcode-svg": "^1.1.0",
     "redis": "^3.1.0",
     "sanitize-filename": "^1.6.3",
