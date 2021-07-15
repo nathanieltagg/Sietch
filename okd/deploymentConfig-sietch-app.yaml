@@ -25,7 +25,7 @@ objects:
         spec:
           containers:
             - image: >-
-                docker-registry.default.svc:5000/sietch/sietch-app@sha256:b102f4d14182a86cde0803b5ef324a0839af53a69074444cf6a110c60e53c4bb
+                docker-registry.default.svc:5000/sietch/sietch-app:${RELEASE_BRANCH}
               imagePullPolicy: Always
               name: sietch-app-${RELEASE_BRANCH}
               ports: 

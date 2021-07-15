@@ -21,7 +21,7 @@ if(config in argv) {
     load_config(argv.config)
 }
 
-console.log("configured");
+console.log("{msg: configured}");
 
 
 const database = require('lib/database.js'); // Exports global 'db' variable
