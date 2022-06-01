@@ -73,7 +73,7 @@
     "qrcode-svg": "^1.1.0",
     "redis": "^3.1.2",
     "sanitize-filename": "^1.6.3",
-    "sharp": "^0.28.3",
+    "sharp": "^0.30.5",
     "short-uuid": "^3.1.1",
     "showdown": "^1.9.1",
     "ts-tracking-number": "^1.0.12",
