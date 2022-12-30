@@ -48,7 +48,7 @@
     "fabric-history": "^1.6.0",
     "file-upload": "0.0.0",
     "flatpickr": "^4.6.9",
-    "formiojs": "^4.13.3",
+    "formiojs": "^4.14.11",
     "glob": "^7.1.7",
     "jquery": "^3.6.0",
     "json5": "^2.2.0",
