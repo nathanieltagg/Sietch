@@ -51,7 +51,7 @@
     "formiojs": "^4.13.3",
     "glob": "^7.1.7",
     "jquery": "^3.6.0",
-    "json5": "^2.2.0",
+    "json5": "^2.2.2",
     "jsondiffpatch": "^0.4.1",
     "jsonpath": "^1.1.1",
     "jsonwebtoken": "^8.5.1",
